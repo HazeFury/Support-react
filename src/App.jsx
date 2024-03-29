@@ -13,7 +13,7 @@ function App() {
     {
       marque: "Audi",
       model: "RS6",
-      couleur: "noir",
+      couleur: "blanche",
       année: "2023",
     },
     {
